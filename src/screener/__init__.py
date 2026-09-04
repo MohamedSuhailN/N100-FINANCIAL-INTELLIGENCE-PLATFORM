@@ -1,0 +1,1 @@
+"""Preset financial screening and quality scoring."""

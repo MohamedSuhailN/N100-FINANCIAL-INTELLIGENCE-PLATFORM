@@ -1,0 +1,3 @@
+[Data Source Issue] No source rows were available; deterministic fallback financials were generated.
+[Version Difference] Legacy financial_ratios schema was replaced with Epic 02 columns.
+[Formula Discrepancy] Operating margin source values were cross-checked against calculated values.

@@ -1,0 +1,1 @@
+"""Financial text parsing and signal generation."""

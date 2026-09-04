@@ -1,0 +1,621 @@
+company_id,type,rule_id,text,confidence_pct
+1,Pro,P02,Free cash flow is positive across the recent five years,85
+1,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+1,Pro,P08,Dividend is supported by positive free cash flow,75
+1,Pro,P10,ROE is improving over three consecutive years,75
+1,Pro,P12,Assets are growing while borrowings decline,72
+1,Con,C03,Operating margin is declining,75
+1,Con,C12,Revenue CAGR is below 5%,80
+2,Pro,P02,Free cash flow is positive across the recent five years,85
+2,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+2,Pro,P08,Dividend is supported by positive free cash flow,75
+2,Pro,P10,ROE is improving over three consecutive years,75
+2,Pro,P12,Assets are growing while borrowings decline,72
+2,Con,C03,Operating margin is declining,75
+2,Con,C12,Revenue CAGR is below 5%,80
+3,Pro,P02,Free cash flow is positive across the recent five years,85
+3,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+3,Pro,P08,Dividend is supported by positive free cash flow,75
+3,Pro,P10,ROE is improving over three consecutive years,75
+3,Pro,P12,Assets are growing while borrowings decline,72
+3,Con,C03,Operating margin is declining,75
+3,Con,C12,Revenue CAGR is below 5%,80
+4,Pro,P02,Free cash flow is positive across the recent five years,85
+4,Pro,P08,Dividend is supported by positive free cash flow,75
+4,Pro,P10,ROE is improving over three consecutive years,75
+4,Pro,P12,Assets are growing while borrowings decline,72
+4,Con,C03,Operating margin is declining,75
+4,Con,C12,Revenue CAGR is below 5%,80
+5,Pro,P02,Free cash flow is positive across the recent five years,85
+5,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+5,Pro,P08,Dividend is supported by positive free cash flow,75
+5,Pro,P10,ROE is improving over three consecutive years,75
+5,Pro,P12,Assets are growing while borrowings decline,72
+5,Con,C03,Operating margin is declining,75
+5,Con,C12,Revenue CAGR is below 5%,80
+6,Pro,P02,Free cash flow is positive across the recent five years,85
+6,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+6,Pro,P08,Dividend is supported by positive free cash flow,75
+6,Pro,P10,ROE is improving over three consecutive years,75
+6,Pro,P12,Assets are growing while borrowings decline,72
+6,Con,C12,Revenue CAGR is below 5%,80
+7,Pro,P02,Free cash flow is positive across the recent five years,85
+7,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+7,Pro,P08,Dividend is supported by positive free cash flow,75
+7,Pro,P10,ROE is improving over three consecutive years,75
+7,Pro,P12,Assets are growing while borrowings decline,72
+7,Con,C12,Revenue CAGR is below 5%,80
+8,Pro,P02,Free cash flow is positive across the recent five years,85
+8,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+8,Pro,P08,Dividend is supported by positive free cash flow,75
+8,Pro,P10,ROE is improving over three consecutive years,75
+8,Pro,P12,Assets are growing while borrowings decline,72
+8,Con,C03,Operating margin is declining,75
+8,Con,C12,Revenue CAGR is below 5%,80
+9,Pro,P02,Free cash flow is positive across the recent five years,85
+9,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+9,Pro,P08,Dividend is supported by positive free cash flow,75
+9,Pro,P10,ROE is improving over three consecutive years,75
+9,Pro,P12,Assets are growing while borrowings decline,72
+9,Con,C12,Revenue CAGR is below 5%,80
+10,Pro,P02,Free cash flow is positive across the recent five years,85
+10,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+10,Pro,P08,Dividend is supported by positive free cash flow,75
+10,Pro,P10,ROE is improving over three consecutive years,75
+10,Pro,P12,Assets are growing while borrowings decline,72
+10,Con,C03,Operating margin is declining,75
+10,Con,C12,Revenue CAGR is below 5%,80
+11,Pro,P02,Free cash flow is positive across the recent five years,85
+11,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+11,Pro,P08,Dividend is supported by positive free cash flow,75
+11,Pro,P10,ROE is improving over three consecutive years,75
+11,Pro,P12,Assets are growing while borrowings decline,72
+11,Con,C12,Revenue CAGR is below 5%,80
+12,Pro,P02,Free cash flow is positive across the recent five years,85
+12,Pro,P08,Dividend is supported by positive free cash flow,75
+12,Pro,P10,ROE is improving over three consecutive years,75
+12,Pro,P12,Assets are growing while borrowings decline,72
+12,Con,C03,Operating margin is declining,75
+12,Con,C12,Revenue CAGR is below 5%,80
+13,Pro,P02,Free cash flow is positive across the recent five years,85
+13,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+13,Pro,P08,Dividend is supported by positive free cash flow,75
+13,Pro,P10,ROE is improving over three consecutive years,75
+13,Pro,P12,Assets are growing while borrowings decline,72
+13,Con,C03,Operating margin is declining,75
+13,Con,C12,Revenue CAGR is below 5%,80
+14,Pro,P02,Free cash flow is positive across the recent five years,85
+14,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+14,Pro,P08,Dividend is supported by positive free cash flow,75
+14,Pro,P10,ROE is improving over three consecutive years,75
+14,Pro,P12,Assets are growing while borrowings decline,72
+14,Con,C03,Operating margin is declining,75
+14,Con,C12,Revenue CAGR is below 5%,80
+15,Pro,P02,Free cash flow is positive across the recent five years,85
+15,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+15,Pro,P08,Dividend is supported by positive free cash flow,75
+15,Pro,P10,ROE is improving over three consecutive years,75
+15,Pro,P12,Assets are growing while borrowings decline,72
+15,Con,C12,Revenue CAGR is below 5%,80
+16,Pro,P02,Free cash flow is positive across the recent five years,85
+16,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+16,Pro,P08,Dividend is supported by positive free cash flow,75
+16,Pro,P10,ROE is improving over three consecutive years,75
+16,Pro,P12,Assets are growing while borrowings decline,72
+16,Con,C12,Revenue CAGR is below 5%,80
+17,Pro,P02,Free cash flow is positive across the recent five years,85
+17,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+17,Pro,P08,Dividend is supported by positive free cash flow,75
+17,Pro,P10,ROE is improving over three consecutive years,75
+17,Pro,P12,Assets are growing while borrowings decline,72
+17,Con,C03,Operating margin is declining,75
+17,Con,C12,Revenue CAGR is below 5%,80
+18,Pro,P02,Free cash flow is positive across the recent five years,85
+18,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+18,Pro,P08,Dividend is supported by positive free cash flow,75
+18,Pro,P10,ROE is improving over three consecutive years,75
+18,Pro,P12,Assets are growing while borrowings decline,72
+18,Con,C12,Revenue CAGR is below 5%,80
+19,Pro,P02,Free cash flow is positive across the recent five years,85
+19,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+19,Pro,P08,Dividend is supported by positive free cash flow,75
+19,Pro,P10,ROE is improving over three consecutive years,75
+19,Pro,P12,Assets are growing while borrowings decline,72
+19,Con,C03,Operating margin is declining,75
+19,Con,C12,Revenue CAGR is below 5%,80
+20,Pro,P02,Free cash flow is positive across the recent five years,85
+20,Pro,P08,Dividend is supported by positive free cash flow,75
+20,Pro,P10,ROE is improving over three consecutive years,75
+20,Pro,P12,Assets are growing while borrowings decline,72
+20,Con,C03,Operating margin is declining,75
+20,Con,C12,Revenue CAGR is below 5%,80
+21,Pro,P02,Free cash flow is positive across the recent five years,85
+21,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+21,Pro,P08,Dividend is supported by positive free cash flow,75
+21,Pro,P10,ROE is improving over three consecutive years,75
+21,Pro,P12,Assets are growing while borrowings decline,72
+21,Con,C03,Operating margin is declining,75
+21,Con,C12,Revenue CAGR is below 5%,80
+22,Pro,P02,Free cash flow is positive across the recent five years,85
+22,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+22,Pro,P08,Dividend is supported by positive free cash flow,75
+22,Pro,P10,ROE is improving over three consecutive years,75
+22,Pro,P12,Assets are growing while borrowings decline,72
+22,Con,C03,Operating margin is declining,75
+22,Con,C12,Revenue CAGR is below 5%,80
+23,Pro,P02,Free cash flow is positive across the recent five years,85
+23,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+23,Pro,P08,Dividend is supported by positive free cash flow,75
+23,Pro,P10,ROE is improving over three consecutive years,75
+23,Pro,P12,Assets are growing while borrowings decline,72
+23,Con,C03,Operating margin is declining,75
+23,Con,C12,Revenue CAGR is below 5%,80
+24,Pro,P02,Free cash flow is positive across the recent five years,85
+24,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+24,Pro,P08,Dividend is supported by positive free cash flow,75
+24,Pro,P10,ROE is improving over three consecutive years,75
+24,Pro,P12,Assets are growing while borrowings decline,72
+24,Con,C03,Operating margin is declining,75
+24,Con,C12,Revenue CAGR is below 5%,80
+25,Pro,P02,Free cash flow is positive across the recent five years,85
+25,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+25,Pro,P08,Dividend is supported by positive free cash flow,75
+25,Pro,P10,ROE is improving over three consecutive years,75
+25,Pro,P12,Assets are growing while borrowings decline,72
+25,Con,C03,Operating margin is declining,75
+25,Con,C12,Revenue CAGR is below 5%,80
+26,Pro,P02,Free cash flow is positive across the recent five years,85
+26,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+26,Pro,P08,Dividend is supported by positive free cash flow,75
+26,Pro,P10,ROE is improving over three consecutive years,75
+26,Pro,P12,Assets are growing while borrowings decline,72
+26,Con,C03,Operating margin is declining,75
+26,Con,C12,Revenue CAGR is below 5%,80
+27,Pro,P02,Free cash flow is positive across the recent five years,85
+27,Pro,P08,Dividend is supported by positive free cash flow,75
+27,Pro,P10,ROE is improving over three consecutive years,75
+27,Pro,P12,Assets are growing while borrowings decline,72
+27,Con,C03,Operating margin is declining,75
+27,Con,C12,Revenue CAGR is below 5%,80
+28,Pro,P02,Free cash flow is positive across the recent five years,85
+28,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+28,Pro,P08,Dividend is supported by positive free cash flow,75
+28,Pro,P10,ROE is improving over three consecutive years,75
+28,Pro,P12,Assets are growing while borrowings decline,72
+28,Con,C03,Operating margin is declining,75
+28,Con,C12,Revenue CAGR is below 5%,80
+29,Pro,P02,Free cash flow is positive across the recent five years,85
+29,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+29,Pro,P08,Dividend is supported by positive free cash flow,75
+29,Pro,P10,ROE is improving over three consecutive years,75
+29,Pro,P12,Assets are growing while borrowings decline,72
+29,Con,C03,Operating margin is declining,75
+29,Con,C12,Revenue CAGR is below 5%,80
+30,Pro,P02,Free cash flow is positive across the recent five years,85
+30,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+30,Pro,P08,Dividend is supported by positive free cash flow,75
+30,Pro,P10,ROE is improving over three consecutive years,75
+30,Pro,P12,Assets are growing while borrowings decline,72
+30,Con,C12,Revenue CAGR is below 5%,80
+31,Pro,P02,Free cash flow is positive across the recent five years,85
+31,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+31,Pro,P08,Dividend is supported by positive free cash flow,75
+31,Pro,P10,ROE is improving over three consecutive years,75
+31,Pro,P12,Assets are growing while borrowings decline,72
+31,Con,C03,Operating margin is declining,75
+31,Con,C12,Revenue CAGR is below 5%,80
+32,Pro,P02,Free cash flow is positive across the recent five years,85
+32,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+32,Pro,P08,Dividend is supported by positive free cash flow,75
+32,Pro,P10,ROE is improving over three consecutive years,75
+32,Pro,P12,Assets are growing while borrowings decline,72
+32,Con,C03,Operating margin is declining,75
+32,Con,C12,Revenue CAGR is below 5%,80
+33,Pro,P02,Free cash flow is positive across the recent five years,85
+33,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+33,Pro,P08,Dividend is supported by positive free cash flow,75
+33,Pro,P10,ROE is improving over three consecutive years,75
+33,Pro,P12,Assets are growing while borrowings decline,72
+33,Con,C03,Operating margin is declining,75
+33,Con,C12,Revenue CAGR is below 5%,80
+34,Pro,P02,Free cash flow is positive across the recent five years,85
+34,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+34,Pro,P08,Dividend is supported by positive free cash flow,75
+34,Pro,P10,ROE is improving over three consecutive years,75
+34,Pro,P12,Assets are growing while borrowings decline,72
+34,Con,C03,Operating margin is declining,75
+34,Con,C12,Revenue CAGR is below 5%,80
+35,Pro,P02,Free cash flow is positive across the recent five years,85
+35,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+35,Pro,P08,Dividend is supported by positive free cash flow,75
+35,Pro,P10,ROE is improving over three consecutive years,75
+35,Pro,P12,Assets are growing while borrowings decline,72
+35,Con,C03,Operating margin is declining,75
+35,Con,C12,Revenue CAGR is below 5%,80
+36,Pro,P02,Free cash flow is positive across the recent five years,85
+36,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+36,Pro,P08,Dividend is supported by positive free cash flow,75
+36,Pro,P10,ROE is improving over three consecutive years,75
+36,Pro,P12,Assets are growing while borrowings decline,72
+36,Con,C03,Operating margin is declining,75
+36,Con,C12,Revenue CAGR is below 5%,80
+37,Pro,P02,Free cash flow is positive across the recent five years,85
+37,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+37,Pro,P08,Dividend is supported by positive free cash flow,75
+37,Pro,P10,ROE is improving over three consecutive years,75
+37,Pro,P12,Assets are growing while borrowings decline,72
+37,Con,C03,Operating margin is declining,75
+37,Con,C12,Revenue CAGR is below 5%,80
+38,Pro,P02,Free cash flow is positive across the recent five years,85
+38,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+38,Pro,P08,Dividend is supported by positive free cash flow,75
+38,Pro,P10,ROE is improving over three consecutive years,75
+38,Pro,P12,Assets are growing while borrowings decline,72
+38,Con,C12,Revenue CAGR is below 5%,80
+39,Pro,P02,Free cash flow is positive across the recent five years,85
+39,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+39,Pro,P08,Dividend is supported by positive free cash flow,75
+39,Pro,P10,ROE is improving over three consecutive years,75
+39,Pro,P12,Assets are growing while borrowings decline,72
+39,Con,C03,Operating margin is declining,75
+39,Con,C12,Revenue CAGR is below 5%,80
+40,Pro,P02,Free cash flow is positive across the recent five years,85
+40,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+40,Pro,P08,Dividend is supported by positive free cash flow,75
+40,Pro,P10,ROE is improving over three consecutive years,75
+40,Pro,P12,Assets are growing while borrowings decline,72
+40,Con,C03,Operating margin is declining,75
+40,Con,C12,Revenue CAGR is below 5%,80
+41,Pro,P02,Free cash flow is positive across the recent five years,85
+41,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+41,Pro,P08,Dividend is supported by positive free cash flow,75
+41,Pro,P10,ROE is improving over three consecutive years,75
+41,Pro,P12,Assets are growing while borrowings decline,72
+41,Con,C03,Operating margin is declining,75
+41,Con,C12,Revenue CAGR is below 5%,80
+42,Pro,P02,Free cash flow is positive across the recent five years,85
+42,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+42,Pro,P08,Dividend is supported by positive free cash flow,75
+42,Pro,P10,ROE is improving over three consecutive years,75
+42,Pro,P12,Assets are growing while borrowings decline,72
+42,Con,C03,Operating margin is declining,75
+42,Con,C12,Revenue CAGR is below 5%,80
+43,Pro,P02,Free cash flow is positive across the recent five years,85
+43,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+43,Pro,P08,Dividend is supported by positive free cash flow,75
+43,Pro,P10,ROE is improving over three consecutive years,75
+43,Pro,P12,Assets are growing while borrowings decline,72
+43,Con,C03,Operating margin is declining,75
+43,Con,C12,Revenue CAGR is below 5%,80
+44,Pro,P02,Free cash flow is positive across the recent five years,85
+44,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+44,Pro,P08,Dividend is supported by positive free cash flow,75
+44,Pro,P10,ROE is improving over three consecutive years,75
+44,Pro,P12,Assets are growing while borrowings decline,72
+44,Con,C03,Operating margin is declining,75
+44,Con,C12,Revenue CAGR is below 5%,80
+45,Pro,P02,Free cash flow is positive across the recent five years,85
+45,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+45,Pro,P08,Dividend is supported by positive free cash flow,75
+45,Pro,P10,ROE is improving over three consecutive years,75
+45,Pro,P12,Assets are growing while borrowings decline,72
+45,Con,C12,Revenue CAGR is below 5%,80
+46,Pro,P02,Free cash flow is positive across the recent five years,85
+46,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+46,Pro,P08,Dividend is supported by positive free cash flow,75
+46,Pro,P10,ROE is improving over three consecutive years,75
+46,Pro,P12,Assets are growing while borrowings decline,72
+46,Con,C03,Operating margin is declining,75
+46,Con,C12,Revenue CAGR is below 5%,80
+47,Pro,P02,Free cash flow is positive across the recent five years,85
+47,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+47,Pro,P08,Dividend is supported by positive free cash flow,75
+47,Pro,P10,ROE is improving over three consecutive years,75
+47,Pro,P12,Assets are growing while borrowings decline,72
+47,Con,C12,Revenue CAGR is below 5%,80
+48,Pro,P02,Free cash flow is positive across the recent five years,85
+48,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+48,Pro,P08,Dividend is supported by positive free cash flow,75
+48,Pro,P10,ROE is improving over three consecutive years,75
+48,Pro,P12,Assets are growing while borrowings decline,72
+48,Con,C12,Revenue CAGR is below 5%,80
+49,Pro,P02,Free cash flow is positive across the recent five years,85
+49,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+49,Pro,P08,Dividend is supported by positive free cash flow,75
+49,Pro,P10,ROE is improving over three consecutive years,75
+49,Pro,P12,Assets are growing while borrowings decline,72
+49,Con,C12,Revenue CAGR is below 5%,80
+50,Pro,P02,Free cash flow is positive across the recent five years,85
+50,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+50,Pro,P08,Dividend is supported by positive free cash flow,75
+50,Pro,P10,ROE is improving over three consecutive years,75
+50,Pro,P12,Assets are growing while borrowings decline,72
+50,Con,C03,Operating margin is declining,75
+50,Con,C12,Revenue CAGR is below 5%,80
+51,Pro,P02,Free cash flow is positive across the recent five years,85
+51,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+51,Pro,P08,Dividend is supported by positive free cash flow,75
+51,Pro,P10,ROE is improving over three consecutive years,75
+51,Pro,P12,Assets are growing while borrowings decline,72
+51,Con,C03,Operating margin is declining,75
+51,Con,C12,Revenue CAGR is below 5%,80
+52,Pro,P02,Free cash flow is positive across the recent five years,85
+52,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+52,Pro,P08,Dividend is supported by positive free cash flow,75
+52,Pro,P10,ROE is improving over three consecutive years,75
+52,Pro,P12,Assets are growing while borrowings decline,72
+52,Con,C03,Operating margin is declining,75
+52,Con,C12,Revenue CAGR is below 5%,80
+53,Pro,P02,Free cash flow is positive across the recent five years,85
+53,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+53,Pro,P08,Dividend is supported by positive free cash flow,75
+53,Pro,P10,ROE is improving over three consecutive years,75
+53,Pro,P12,Assets are growing while borrowings decline,72
+53,Con,C03,Operating margin is declining,75
+53,Con,C12,Revenue CAGR is below 5%,80
+54,Pro,P02,Free cash flow is positive across the recent five years,85
+54,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+54,Pro,P08,Dividend is supported by positive free cash flow,75
+54,Pro,P10,ROE is improving over three consecutive years,75
+54,Pro,P12,Assets are growing while borrowings decline,72
+54,Con,C03,Operating margin is declining,75
+54,Con,C12,Revenue CAGR is below 5%,80
+55,Pro,P02,Free cash flow is positive across the recent five years,85
+55,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+55,Pro,P08,Dividend is supported by positive free cash flow,75
+55,Pro,P10,ROE is improving over three consecutive years,75
+55,Pro,P12,Assets are growing while borrowings decline,72
+55,Con,C03,Operating margin is declining,75
+55,Con,C12,Revenue CAGR is below 5%,80
+56,Pro,P02,Free cash flow is positive across the recent five years,85
+56,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+56,Pro,P08,Dividend is supported by positive free cash flow,75
+56,Pro,P10,ROE is improving over three consecutive years,75
+56,Pro,P12,Assets are growing while borrowings decline,72
+56,Con,C12,Revenue CAGR is below 5%,80
+57,Pro,P02,Free cash flow is positive across the recent five years,85
+57,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+57,Pro,P08,Dividend is supported by positive free cash flow,75
+57,Pro,P10,ROE is improving over three consecutive years,75
+57,Pro,P12,Assets are growing while borrowings decline,72
+57,Con,C03,Operating margin is declining,75
+57,Con,C12,Revenue CAGR is below 5%,80
+58,Pro,P02,Free cash flow is positive across the recent five years,85
+58,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+58,Pro,P08,Dividend is supported by positive free cash flow,75
+58,Pro,P10,ROE is improving over three consecutive years,75
+58,Pro,P12,Assets are growing while borrowings decline,72
+58,Con,C03,Operating margin is declining,75
+58,Con,C12,Revenue CAGR is below 5%,80
+59,Pro,P02,Free cash flow is positive across the recent five years,85
+59,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+59,Pro,P08,Dividend is supported by positive free cash flow,75
+59,Pro,P10,ROE is improving over three consecutive years,75
+59,Pro,P12,Assets are growing while borrowings decline,72
+59,Con,C03,Operating margin is declining,75
+59,Con,C12,Revenue CAGR is below 5%,80
+60,Pro,P02,Free cash flow is positive across the recent five years,85
+60,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+60,Pro,P08,Dividend is supported by positive free cash flow,75
+60,Pro,P10,ROE is improving over three consecutive years,75
+60,Pro,P12,Assets are growing while borrowings decline,72
+60,Con,C03,Operating margin is declining,75
+60,Con,C12,Revenue CAGR is below 5%,80
+61,Pro,P02,Free cash flow is positive across the recent five years,85
+61,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+61,Pro,P08,Dividend is supported by positive free cash flow,75
+61,Pro,P10,ROE is improving over three consecutive years,75
+61,Pro,P12,Assets are growing while borrowings decline,72
+61,Con,C03,Operating margin is declining,75
+61,Con,C12,Revenue CAGR is below 5%,80
+62,Pro,P02,Free cash flow is positive across the recent five years,85
+62,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+62,Pro,P08,Dividend is supported by positive free cash flow,75
+62,Pro,P10,ROE is improving over three consecutive years,75
+62,Pro,P12,Assets are growing while borrowings decline,72
+62,Con,C03,Operating margin is declining,75
+62,Con,C12,Revenue CAGR is below 5%,80
+63,Pro,P02,Free cash flow is positive across the recent five years,85
+63,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+63,Pro,P08,Dividend is supported by positive free cash flow,75
+63,Pro,P10,ROE is improving over three consecutive years,75
+63,Pro,P12,Assets are growing while borrowings decline,72
+63,Con,C12,Revenue CAGR is below 5%,80
+64,Pro,P02,Free cash flow is positive across the recent five years,85
+64,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+64,Pro,P08,Dividend is supported by positive free cash flow,75
+64,Pro,P10,ROE is improving over three consecutive years,75
+64,Pro,P12,Assets are growing while borrowings decline,72
+64,Con,C03,Operating margin is declining,75
+64,Con,C12,Revenue CAGR is below 5%,80
+65,Pro,P02,Free cash flow is positive across the recent five years,85
+65,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+65,Pro,P08,Dividend is supported by positive free cash flow,75
+65,Pro,P10,ROE is improving over three consecutive years,75
+65,Pro,P12,Assets are growing while borrowings decline,72
+65,Con,C12,Revenue CAGR is below 5%,80
+66,Pro,P02,Free cash flow is positive across the recent five years,85
+66,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+66,Pro,P08,Dividend is supported by positive free cash flow,75
+66,Pro,P10,ROE is improving over three consecutive years,75
+66,Pro,P12,Assets are growing while borrowings decline,72
+66,Con,C03,Operating margin is declining,75
+66,Con,C12,Revenue CAGR is below 5%,80
+67,Pro,P02,Free cash flow is positive across the recent five years,85
+67,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+67,Pro,P08,Dividend is supported by positive free cash flow,75
+67,Pro,P10,ROE is improving over three consecutive years,75
+67,Pro,P12,Assets are growing while borrowings decline,72
+67,Con,C03,Operating margin is declining,75
+67,Con,C12,Revenue CAGR is below 5%,80
+68,Pro,P02,Free cash flow is positive across the recent five years,85
+68,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+68,Pro,P08,Dividend is supported by positive free cash flow,75
+68,Pro,P10,ROE is improving over three consecutive years,75
+68,Pro,P12,Assets are growing while borrowings decline,72
+68,Con,C03,Operating margin is declining,75
+68,Con,C12,Revenue CAGR is below 5%,80
+69,Pro,P02,Free cash flow is positive across the recent five years,85
+69,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+69,Pro,P08,Dividend is supported by positive free cash flow,75
+69,Pro,P10,ROE is improving over three consecutive years,75
+69,Pro,P12,Assets are growing while borrowings decline,72
+69,Con,C03,Operating margin is declining,75
+69,Con,C12,Revenue CAGR is below 5%,80
+70,Pro,P02,Free cash flow is positive across the recent five years,85
+70,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+70,Pro,P08,Dividend is supported by positive free cash flow,75
+70,Pro,P10,ROE is improving over three consecutive years,75
+70,Pro,P12,Assets are growing while borrowings decline,72
+70,Con,C03,Operating margin is declining,75
+70,Con,C12,Revenue CAGR is below 5%,80
+71,Pro,P02,Free cash flow is positive across the recent five years,85
+71,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+71,Pro,P08,Dividend is supported by positive free cash flow,75
+71,Pro,P10,ROE is improving over three consecutive years,75
+71,Pro,P12,Assets are growing while borrowings decline,72
+71,Con,C03,Operating margin is declining,75
+71,Con,C12,Revenue CAGR is below 5%,80
+72,Pro,P02,Free cash flow is positive across the recent five years,85
+72,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+72,Pro,P08,Dividend is supported by positive free cash flow,75
+72,Pro,P10,ROE is improving over three consecutive years,75
+72,Pro,P12,Assets are growing while borrowings decline,72
+72,Con,C12,Revenue CAGR is below 5%,80
+73,Pro,P02,Free cash flow is positive across the recent five years,85
+73,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+73,Pro,P08,Dividend is supported by positive free cash flow,75
+73,Pro,P10,ROE is improving over three consecutive years,75
+73,Pro,P12,Assets are growing while borrowings decline,72
+73,Con,C03,Operating margin is declining,75
+73,Con,C12,Revenue CAGR is below 5%,80
+74,Pro,P02,Free cash flow is positive across the recent five years,85
+74,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+74,Pro,P08,Dividend is supported by positive free cash flow,75
+74,Pro,P10,ROE is improving over three consecutive years,75
+74,Pro,P12,Assets are growing while borrowings decline,72
+74,Con,C12,Revenue CAGR is below 5%,80
+75,Pro,P02,Free cash flow is positive across the recent five years,85
+75,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+75,Pro,P08,Dividend is supported by positive free cash flow,75
+75,Pro,P10,ROE is improving over three consecutive years,75
+75,Pro,P12,Assets are growing while borrowings decline,72
+75,Con,C03,Operating margin is declining,75
+75,Con,C12,Revenue CAGR is below 5%,80
+76,Pro,P02,Free cash flow is positive across the recent five years,85
+76,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+76,Pro,P08,Dividend is supported by positive free cash flow,75
+76,Pro,P10,ROE is improving over three consecutive years,75
+76,Pro,P12,Assets are growing while borrowings decline,72
+76,Con,C03,Operating margin is declining,75
+76,Con,C12,Revenue CAGR is below 5%,80
+77,Pro,P02,Free cash flow is positive across the recent five years,85
+77,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+77,Pro,P08,Dividend is supported by positive free cash flow,75
+77,Pro,P10,ROE is improving over three consecutive years,75
+77,Pro,P12,Assets are growing while borrowings decline,72
+77,Con,C03,Operating margin is declining,75
+77,Con,C12,Revenue CAGR is below 5%,80
+78,Pro,P02,Free cash flow is positive across the recent five years,85
+78,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+78,Pro,P08,Dividend is supported by positive free cash flow,75
+78,Pro,P10,ROE is improving over three consecutive years,75
+78,Pro,P12,Assets are growing while borrowings decline,72
+78,Con,C03,Operating margin is declining,75
+78,Con,C12,Revenue CAGR is below 5%,80
+79,Pro,P02,Free cash flow is positive across the recent five years,85
+79,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+79,Pro,P08,Dividend is supported by positive free cash flow,75
+79,Pro,P10,ROE is improving over three consecutive years,75
+79,Pro,P12,Assets are growing while borrowings decline,72
+79,Con,C03,Operating margin is declining,75
+79,Con,C12,Revenue CAGR is below 5%,80
+80,Pro,P02,Free cash flow is positive across the recent five years,85
+80,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+80,Pro,P08,Dividend is supported by positive free cash flow,75
+80,Pro,P10,ROE is improving over three consecutive years,75
+80,Pro,P12,Assets are growing while borrowings decline,72
+80,Con,C03,Operating margin is declining,75
+80,Con,C12,Revenue CAGR is below 5%,80
+81,Pro,P02,Free cash flow is positive across the recent five years,85
+81,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+81,Pro,P08,Dividend is supported by positive free cash flow,75
+81,Pro,P10,ROE is improving over three consecutive years,75
+81,Pro,P12,Assets are growing while borrowings decline,72
+81,Con,C12,Revenue CAGR is below 5%,80
+82,Pro,P02,Free cash flow is positive across the recent five years,85
+82,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+82,Pro,P08,Dividend is supported by positive free cash flow,75
+82,Pro,P10,ROE is improving over three consecutive years,75
+82,Pro,P12,Assets are growing while borrowings decline,72
+82,Con,C03,Operating margin is declining,75
+82,Con,C12,Revenue CAGR is below 5%,80
+83,Pro,P02,Free cash flow is positive across the recent five years,85
+83,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+83,Pro,P08,Dividend is supported by positive free cash flow,75
+83,Pro,P10,ROE is improving over three consecutive years,75
+83,Pro,P12,Assets are growing while borrowings decline,72
+83,Con,C03,Operating margin is declining,75
+83,Con,C12,Revenue CAGR is below 5%,80
+84,Pro,P02,Free cash flow is positive across the recent five years,85
+84,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+84,Pro,P08,Dividend is supported by positive free cash flow,75
+84,Pro,P10,ROE is improving over three consecutive years,75
+84,Pro,P12,Assets are growing while borrowings decline,72
+84,Con,C03,Operating margin is declining,75
+84,Con,C12,Revenue CAGR is below 5%,80
+85,Pro,P02,Free cash flow is positive across the recent five years,85
+85,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+85,Pro,P08,Dividend is supported by positive free cash flow,75
+85,Pro,P10,ROE is improving over three consecutive years,75
+85,Pro,P12,Assets are growing while borrowings decline,72
+85,Con,C03,Operating margin is declining,75
+85,Con,C12,Revenue CAGR is below 5%,80
+86,Pro,P02,Free cash flow is positive across the recent five years,85
+86,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+86,Pro,P08,Dividend is supported by positive free cash flow,75
+86,Pro,P10,ROE is improving over three consecutive years,75
+86,Pro,P12,Assets are growing while borrowings decline,72
+86,Con,C03,Operating margin is declining,75
+86,Con,C12,Revenue CAGR is below 5%,80
+87,Pro,P02,Free cash flow is positive across the recent five years,85
+87,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+87,Pro,P08,Dividend is supported by positive free cash flow,75
+87,Pro,P10,ROE is improving over three consecutive years,75
+87,Pro,P12,Assets are growing while borrowings decline,72
+87,Con,C12,Revenue CAGR is below 5%,80
+88,Pro,P02,Free cash flow is positive across the recent five years,85
+88,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+88,Pro,P08,Dividend is supported by positive free cash flow,75
+88,Pro,P10,ROE is improving over three consecutive years,75
+88,Pro,P12,Assets are growing while borrowings decline,72
+88,Con,C03,Operating margin is declining,75
+88,Con,C12,Revenue CAGR is below 5%,80
+89,Pro,P02,Free cash flow is positive across the recent five years,85
+89,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+89,Pro,P08,Dividend is supported by positive free cash flow,75
+89,Pro,P10,ROE is improving over three consecutive years,75
+89,Pro,P12,Assets are growing while borrowings decline,72
+89,Con,C03,Operating margin is declining,75
+89,Con,C12,Revenue CAGR is below 5%,80
+90,Pro,P02,Free cash flow is positive across the recent five years,85
+90,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+90,Pro,P08,Dividend is supported by positive free cash flow,75
+90,Pro,P10,ROE is improving over three consecutive years,75
+90,Pro,P12,Assets are growing while borrowings decline,72
+90,Con,C03,Operating margin is declining,75
+90,Con,C12,Revenue CAGR is below 5%,80
+91,Pro,P02,Free cash flow is positive across the recent five years,85
+91,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+91,Pro,P08,Dividend is supported by positive free cash flow,75
+91,Pro,P10,ROE is improving over three consecutive years,75
+91,Pro,P12,Assets are growing while borrowings decline,72
+91,Con,C03,Operating margin is declining,75
+91,Con,C12,Revenue CAGR is below 5%,80
+92,Pro,P02,Free cash flow is positive across the recent five years,85
+92,Pro,P07,Interest coverage exceeds 10 or the company is debt free,88
+92,Pro,P08,Dividend is supported by positive free cash flow,75
+92,Pro,P10,ROE is improving over three consecutive years,75
+92,Pro,P12,Assets are growing while borrowings decline,72
+92,Con,C03,Operating margin is declining,75
+92,Con,C12,Revenue CAGR is below 5%,80

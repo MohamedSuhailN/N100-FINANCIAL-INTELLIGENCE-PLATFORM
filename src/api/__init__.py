@@ -1,0 +1,1 @@
+"""FastAPI service for the Nifty 100 platform."""
